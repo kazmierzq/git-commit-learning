@@ -4,6 +4,6 @@ public class App {
 
         System.out.println("Hallo Adam");
         System.out.println("Hallo Kazik 2");
-        
+
     }
 }
